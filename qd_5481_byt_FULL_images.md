@@ -1964,13 +1964,3 @@ Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
 25. Umpierrez GE et al, 2012. Management of Hyperglycemia in Hospitalized Patients in Non-Critical Care Setting: An Endocrine Society Clinical Practice Guideline J Clin Endocrinol and Metab; 97(1): 16-38.
 26. Umpierrez G, Korytkowski M. Diabetic emergenciesdketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia. Nat Rev Endocrinol 2016;12:222-232
 27. Gestational Diabetes Mellitus - An Overview with Some Recent Advances October 1 st 2018.
-
-## 🖼️ HÌNH ẢNH TRÍCH XUẤT
-
-![Hình 1](images/hinh_1.png){width=90%}
-
-![Hình 2](images/hinh_2.png){width=90%}
-
-![Hình 3](images/hinh_3.png){width=90%}
-
-![Hình 4](images/hinh_4.png){width=90%}
