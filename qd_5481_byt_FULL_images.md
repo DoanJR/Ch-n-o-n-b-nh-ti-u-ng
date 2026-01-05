@@ -311,11 +311,11 @@ Lưu ý:
 - a) Khái niệm: ĐTĐ thai kỳ là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, ĐTĐ típ 2 trước đó. Nếu phụ nữ có thai 3 tháng đầu được phát hiện tăng glucose huyết thì xếp loại là ĐTĐ chưa được chẩn đoán/chưa được phát hiện hoặc ĐTĐ trước mang thai và dùng tiêu chí chẩn đoán như ở người không có thai.
 - b) Thời điểm tầm soát đái tháo đường thai kỳ
 
-3. -Đối với phụ nữ có thai chưa được chẩn đoán ĐTĐ trước đây tại lần khám thai đầu tiên đối với những người có các yếu tố nguy cơ của ĐTĐ: thực hiện xét nghiệm chẩn đoán ĐTĐ, sử dụng các tiêu chuẩn chẩn đoán đái tháo đường tại điểm a, b, d của điểm 1.1 - Mục 1. Chẩn đoán (không áp dụng tiêu chuẩn về HbA1c).
-4. -Thực hiện xét nghiệm chẩn đoán ĐTĐ thai kỳ ở tuần thứ 24 đến 28 của thai kỳ đối với những thai phụ không được chẩn đoán đái tháo đường trước đó.
-5. -Thực hiện xét nghiệm để chẩn đoán đái tháo đường thật sự (bền vững): ở phụ nữ có đái tháo đường thai kỳ, sau khi sinh từ 4 đến 12 tuần. Dùng nghiệm pháp dung nạp glucose đường uống và áp dụng các tiêu chuẩn chẩn đoán dành cho người trưởng thành không mang thai. Sử dụng các tiêu chuẩn chẩn đoán đái tháo đường tại điểm a, b, d của điểm 1.1 - Mục 1. Chẩn đoán (không áp dụng tiêu chuẩn về HbA1c).
-6. -Ở phụ nữ có tiền sử đái tháo đường thai kỳ nên thực hiện xét nghiệm phát hiện sớm ĐTĐ hay tiền ĐTĐ ít nhất mỗi 1- 3 năm một lần.
-7. -Phụ nữ có tiền sử đái tháo đường thai kỳ, sau đó được phát hiện có tiền đái tháo đường: cần được điều trị can thiệp lối sống tích cực và metformin để phòng ngừa đái tháo đường.
+- -Đối với phụ nữ có thai chưa được chẩn đoán ĐTĐ trước đây tại lần khám thai đầu tiên đối với những người có các yếu tố nguy cơ của ĐTĐ: thực hiện xét nghiệm chẩn đoán ĐTĐ, sử dụng các tiêu chuẩn chẩn đoán đái tháo đường tại điểm a, b, d của điểm 1.1 - Mục 1. Chẩn đoán (không áp dụng tiêu chuẩn về HbA1c).
+- -Thực hiện xét nghiệm chẩn đoán ĐTĐ thai kỳ ở tuần thứ 24 đến 28 của thai kỳ đối với những thai phụ không được chẩn đoán đái tháo đường trước đó.
+- -Thực hiện xét nghiệm để chẩn đoán đái tháo đường thật sự (bền vững): ở phụ nữ có đái tháo đường thai kỳ, sau khi sinh từ 4 đến 12 tuần. Dùng nghiệm pháp dung nạp glucose đường uống và áp dụng các tiêu chuẩn chẩn đoán dành cho người trưởng thành không mang thai. Sử dụng các tiêu chuẩn chẩn đoán đái tháo đường tại điểm a, b, d của điểm 1.1 - Mục 1. Chẩn đoán (không áp dụng tiêu chuẩn về HbA1c).
+- -Ở phụ nữ có tiền sử đái tháo đường thai kỳ nên thực hiện xét nghiệm phát hiện sớm ĐTĐ hay tiền ĐTĐ ít nhất mỗi 1- 3 năm một lần.
+- -Phụ nữ có tiền sử đái tháo đường thai kỳ, sau đó được phát hiện có tiền đái tháo đường: cần được điều trị can thiệp lối sống tích cực và metformin để phòng ngừa đái tháo đường.
 
 - c) Tầm soát và chẩn đoán đái tháo đường thai kỳ: Hiện tại ở Việt Nam có thể thực hiện phương pháp 1 bước như sau:
 
@@ -1964,3 +1964,4 @@ Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
 25. Umpierrez GE et al, 2012. Management of Hyperglycemia in Hospitalized Patients in Non-Critical Care Setting: An Endocrine Society Clinical Practice Guideline J Clin Endocrinol and Metab; 97(1): 16-38.
 26. Umpierrez G, Korytkowski M. Diabetic emergenciesdketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia. Nat Rev Endocrinol 2016;12:222-232
 27. Gestational Diabetes Mellitus - An Overview with Some Recent Advances October 1 st 2018.
+
