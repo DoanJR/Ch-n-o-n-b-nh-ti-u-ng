@@ -340,9 +340,7 @@ Bệnh đái tháo đường được phân thành 4 loại chính
 
 ## 2.1. Đái tháo đường típ 1
 
-Đái tháo đường típ 1 do tế bào beta bị phá hủy nên BN không còn hoặc còn rất ít insulin, 95% do cơ chế tự miễn (típ 1A), 5% vô căn (típ 1 B). BN bị thiếu hụt insulin, tăng glucagon trong máu, không điều trị sẽ bị nhiễm toan ceton. Bệnh có
-
-thể xảy ra ở mọi lứa tuổi nhưng chủ yếu ở trẻ em và thanh thiếu niên. BN cần insulin để ổn định glucose huyết. Người lớn tuổi có thể bị ĐTĐ tự miễn diễn tiến chậm còn gọi là Latent Autoimmune Diabetes of Adulthood (LADA), lúc đầu BN còn đủ insulin nên không bị nhiễm toan ceton và có thể điều trị bằng thuốc viên nhưng tình trạng thiếu insulin sẽ năng dần với thời gian.
+Đái tháo đường típ 1 do tế bào beta bị phá hủy nên BN không còn hoặc còn rất ít insulin, 95% do cơ chế tự miễn (típ 1A), 5% vô căn (típ 1 B). BN bị thiếu hụt insulin, tăng glucagon trong máu, không điều trị sẽ bị nhiễm toan ceton. Bệnh có thể xảy ra ở mọi lứa tuổi nhưng chủ yếu ở trẻ em và thanh thiếu niên. BN cần insulin để ổn định glucose huyết. Người lớn tuổi có thể bị ĐTĐ tự miễn diễn tiến chậm còn gọi là Latent Autoimmune Diabetes of Adulthood (LADA), lúc đầu BN còn đủ insulin nên không bị nhiễm toan ceton và có thể điều trị bằng thuốc viên nhưng tình trạng thiếu insulin sẽ năng dần với thời gian.
 
 ## 2.2. Đái tháo đường típ 2
 
@@ -356,9 +354,9 @@ thể xảy ra ở mọi lứa tuổi nhưng chủ yếu ở trẻ em và thanh 
 
 - a) Khiếm khuyết trên nhiễm sắc thể thường, di truyền theo gen trội tại tế bào beta.
 
-2. -ĐTĐ đơn gen thể MODY (Maturity Onset Diabetes of the Young)
-3. -Insulin hoặc proinsulin đột biến: (Protein đột biến preproinsulin-gen INS )
-4. -Đột biến kênh K ATP (Protein đột biến: kênh chỉnh lưu Kali 6,2-gen KCNJ11 ; Protein đột biến: Thụ thể sulfonylurea 1-gen ABBC8 ).
+ - ĐTĐ đơn gen thể MODY (Maturity Onset Diabetes of the Young)
+ - Insulin hoặc proinsulin đột biến: (Protein đột biến preproinsulin-gen INS )
+ - Đột biến kênh K ATP (Protein đột biến: kênh chỉnh lưu Kali 6,2-gen KCNJ11 ; Protein đột biến: Thụ thể sulfonylurea 1-gen ABBC8 ).
 
 - b) Khiếm khuyết trên nhiễm sắc thể thường, di truyền theo gen lặn tại tế bào beta: Hội chứng Mitchell-Riley, Hội chứng Wolcott-Rallison, Hội chứng Wolfram, Hội chứng thiếu máu hồng cầu to đáp ứng với thiamine, ĐTĐ do đột biến DNA ty thể. Các thể bệnh này hiếm gặp, thường gây ĐTĐ sơ sinh hoặc ĐTĐ ở trẻ em.
 - c) Khiếm khuyết gen liên quan đến hoạt tính insulin
@@ -510,25 +508,25 @@ Bảng 3: Tương quan giữa HbA1c và nồng độ glucose huyết trung bình
 - a) Lập kế hoạch toàn diện, tổng thể, lấy người bệnh làm trung tâm, cá nhân hóa cho mỗi người mắc đái tháo đường, phát hiện và dự phòng sớm, tích cực các yếu tố nguy cơ, giảm các tai biến và biến cố.
 - b) Đánh giá tổng thể và quyết định điều trị dựa trên cơ sở:
 
-4. -Tình trạng sức khỏe chung, bệnh lý đi kèm, các chức năng trong hoạt động thường ngày, thói quen sinh hoạt, điều kiện kinh tế, xã hội, yếu tố tâm lý, tiên lượng sống, cá thể hoá mục tiêu điều trị.
-5. -Nguyên tắc sử dụng thuốc: can thiệp thay đổi lối sống ưu tiên hàng đầu, hạn chế tối đa lượng thuốc dùng, định kỳ kiểm tra tác dụng và tuân thủ thuốc cũ trước khi kê đơn mới, phác đồ phù hợp có thể tuân thủ tốt - tối ưu điều trị, khả thi với BN, có tính yếu tố chi phí và tính sẵn có.
+ -Tình trạng sức khỏe chung, bệnh lý đi kèm, các chức năng trong hoạt động thường ngày, thói quen sinh hoạt, điều kiện kinh tế, xã hội, yếu tố tâm lý, tiên lượng sống, cá thể hoá mục tiêu điều trị.
+ -Nguyên tắc sử dụng thuốc: can thiệp thay đổi lối sống ưu tiên hàng đầu, hạn chế tối đa lượng thuốc dùng, định kỳ kiểm tra tác dụng và tuân thủ thuốc cũ trước khi kê đơn mới, phác đồ phù hợp có thể tuân thủ tốt - tối ưu điều trị, khả thi với BN, có tính yếu tố chi phí và tính sẵn có.
 
 - c) Dịch vụ tư vấn dinh dư ng, hoạt động thể lực, tự theo dõi, hỗ trợ điều trị nên được triển khai, sẵn sàng cung cấp, hỗ trợ cho bác sỹ điều trị, điều dư ng, nhân viên y tế, người chăm sóc và BN.
 - d) Chất lượng chăm sóc, điều trị BN đái tháo đường cần được thường xuyên giám sát, lượng giá và hiệu chỉnh cho phù hợp 1-2 lần/năm
 - e) Các phương pháp điều trị tổng thể bao gồm một số các biện pháp sau:
 
-9. -Tư vấn, hỗ trợ, can thiệp thay đổi lối sống: không hút thuốc, không uống rượu bia, chế độ ăn và hoạt động thể lực (áp dụng cho tất cả người bệnh, các giai đoạn).
-10. -Tư vấn tuân thủ điều trị, kiểm soát cân nặng
-11. -Thuốc uống hạ đường huyết
-12. -Thuốc tiêm hạ đường huyết
-13. -Kiểm soát tăng huyết áp
-14. -Kiểm soát rối loạn lipid máu
-15. -Chống đông
-16. -Điều trị và kiểm soát biến chứng, bệnh đồng mắc.
-17. Các loại thuốc điều trị ĐTĐ
-18. -Thuốc uống: Metformin, Sulfonylurea, ức chế enzym alpha glucosidase, ức chế kênh SGLT2, ức chế enzym DPP- 4, TZD (Pioglitazon).
-19. -Thuốc tiêm: Insulin, đồng vận thụ thể GLP-1.
-20. Mục tiêu điều trị
+ -Tư vấn, hỗ trợ, can thiệp thay đổi lối sống: không hút thuốc, không uống rượu bia, chế độ ăn và hoạt động thể lực (áp dụng cho tất cả người bệnh, các giai đoạn).
+ -Tư vấn tuân thủ điều trị, kiểm soát cân nặng
+ -Thuốc uống hạ đường huyết
+ -Thuốc tiêm hạ đường huyết
+ -Kiểm soát tăng huyết áp
+ -Kiểm soát rối loạn lipid máu
+ -Chống đông
+ -Điều trị và kiểm soát biến chứng, bệnh đồng mắc.
+2. Các loại thuốc điều trị ĐTĐ
+ -Thuốc uống: Metformin, Sulfonylurea, ức chế enzym alpha glucosidase, ức chế kênh SGLT2, ức chế enzym DPP- 4, TZD (Pioglitazon).
+ -Thuốc tiêm: Insulin, đồng vận thụ thể GLP-1.
+3. Mục tiêu điều trị
 
 Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, không có thai
 
@@ -540,9 +538,9 @@ Bảng 4: Mục tiêu điều trị cho BN ĐTĐ ở người trưởng thành, 
 | Huyết áp                                         | Tâm thu <140 mmHg, Tâm trương <90 mmHg Nếu đã có biến chứng thận, hoặc có yếu tố nguy cơ tim mạch do xơ vữa cao: Huyết áp <130/80 mmHg                                                                                                                                                                                            |
 | Lipid máu                                        | LDL cholesterol <100 mg/dL (2,6 mmol/L), nếu chưa có biến chứng tim mạch LDL cholesterol <70 mg/dL (1,8 mmol/L) nếu đã có bệnh tim mạch vữa xơ, hoặc có thể thấp hơn <50 mg/dL nếu có yếu tố nguy cơ xơ vữa cao Triglycerides <150 mg/dL (1,7 mmol/L) HDL cholesterol >40 mg/dL (1,0 mmol/L) ở nam và >50 mg/dL (1,3 mmol/L) ở nữ |
 
-- -Mục tiêu có thể thấp hơn (HbA1c &lt;6,5%) ở BN trẻ, mới chẩn đoán, không có các bệnh lý tim mạch, nguy cơ hạ glucose máu thấp.
-- -Ngược lại, mục tiêu có thể cao hơn (HbA1c từ 7,5 - 8%) ở những BN lớn tuổi, mắc bệnh đái tháo đường đã lâu, có nhiều bệnh lý đi kèm, có tiền sử hạ glucose máu nặng trước đó.
-- -Cần chú ý mục tiêu glucose huyết sau ăn (sau khi bắt đầu ăn 1-2 giờ) nếu đã đạt được mục tiêu glucose huyết lúc đói nhưng chưa đạt được mục tiêu HbA1c.
+* Mục tiêu có thể thấp hơn (HbA1c &lt;6,5%) ở BN trẻ, mới chẩn đoán, không có các bệnh lý tim mạch, nguy cơ hạ glucose máu thấp.
+- Ngược lại, mục tiêu có thể cao hơn (HbA1c từ 7,5 - 8%) ở những BN lớn tuổi, mắc bệnh đái tháo đường đã lâu, có nhiều bệnh lý đi kèm, có tiền sử hạ glucose máu nặng trước đó.
+- Cần chú ý mục tiêu glucose huyết sau ăn (sau khi bắt đầu ăn 1-2 giờ) nếu đã đạt được mục tiêu glucose huyết lúc đói nhưng chưa đạt được mục tiêu HbA1c.
 
 Bảng 5: Mục tiêu điều trị đái tháo đường ở người cao tuổi
 
@@ -552,10 +550,10 @@ Bảng 5: Mục tiêu điều trị đái tháo đường ở người cao tuổ
 | Nhiều bệnh, sức khỏe trung bình                       | Kỳ vọng sống trung bình | <8,0%     | 90-150                                      | 100-180                    | <140/90       |
 | Nhiều bệnh phức tạp hoặc bệnh nguy kịch/ sức khỏe kém | Không còn sống lâu      | <8,5%     | 100-180                                     | 110-200                    | <150/90       |
 
-- Đánh giá về kiểm soát đường huyết:
+* Đánh giá về kiểm soát đường huyết:
 
-* -Thực hiện xét nghiệm HbA1c ít nhất 2 lần trong 1 năm ở những người bệnh đáp ứng mục tiêu điều trị (và những người có đường huyết được kiểm soát ổn định).
-* -Thực hiện xét nghiệm HbA1c hàng quý ở những người bệnh được thay đổi liệu pháp điều trị hoặc những người không đáp ứng mục tiêu về glucose huyết.
+- Thực hiện xét nghiệm HbA1c ít nhất 2 lần trong 1 năm ở những người bệnh đáp ứng mục tiêu điều trị (và những người có đường huyết được kiểm soát ổn định).
+- Thực hiện xét nghiệm HbA1c hàng quý ở những người bệnh được thay đổi liệu pháp điều trị hoặc những người không đáp ứng mục tiêu về glucose huyết.
 
 Thực hiện xét nghiệm HbA1c tại thời điểm người bệnh đến khám, chữa bệnh để tạo cơ hội cho việc thay đổi điều trị kịp thời hơn.
 
@@ -563,19 +561,13 @@ Thực hiện xét nghiệm HbA1c tại thời điểm người bệnh đến kh
 
 Trong lựa chọn thuốc và phương pháp điều trị cho BN ĐTĐ típ 2 cần đánh giá nguy cơ cao hay tiền sử bệnh lý tim mạch do xơ vữa (BTMDXV) và bệnh lý suy tim, suy thận để có thể ra quyết định điều trị hợp lý.
 
-- a) Phân nhóm BN có nguy cơ cao hoặc đã có BTMDXV, bệnh thận mạn hay suy
-
-2. tim:
-3. -BN có BTMDXV chiếm ưu thế bao gồm:
-
-- BN có tiền sử BTMDXV
-- BN có nguy cơ BTMDXV cao: BN ≥ 55 tuổi có hẹp động mạch vành, động mạch cảnh hoặc động mạch chi dưới &gt; 50% hoặc dày thất trái
-
-6. BN có Suy tim hay bệnh thận mạn chiếm ưu thế bao gồm:
-7. -
-8. BN suy tim phân suất tống máu thất trái LVEF&lt;45%,
-
-- BN có bệnh thận mạn (đặc biệt nếu eGFR 30-60 mL/phút/1,73m2 hoặc UACR &gt;30 mg/g, đặc biệt UACR&gt;300 mg/g)
+- a) Phân nhóm BN có nguy cơ cao hoặc đã có BTMDXV, bệnh thận mạn hay suy tim:
+- BN có BTMDXV chiếm ưu thế bao gồm:
++ BN có tiền sử BTMDXV
++ BN có nguy cơ BTMDXV cao: BN ≥ 55 tuổi có hẹp động mạch vành, động mạch cảnh hoặc động mạch chi dưới &gt; 50% hoặc dày thất trái
+- BN có Suy tim hay bệnh thận mạn chiếm ưu thế bao gồm:
++ BN suy tim phân suất tống máu thất trái LVEF&lt;45%,
++ BN có bệnh thận mạn (đặc biệt nếu eGFR 30-60 mL/phút/1,73m2 hoặc UACR &gt;30 mg/g, đặc biệt UACR&gt;300 mg/g)
 
 * b) Phân tầng nguy cơ tim mạch trên BN ĐTĐ:
 
@@ -585,9 +577,8 @@ Các yếu tố nguy cơ (YTNC) tim mạch chính bao gồm: Tuổi, tăng huy�
 - -Nguy cơ cao: Thời gian phát hiện bệnh ĐTĐ ≥10 năm chưa có tổn thương cơ quan đích và có thêm bất kỳ YTNC nào
 - -Nguy cơ rất cao: BN ĐTĐ kèm bệnh tim mạch hoặc tổn thương cơ quan đích (có đạm niệu hay suy thận được định nghĩa khi eGFR &lt;30 mL/ph/1.73m2, phì đại thất trái hoặc có bệnh võng mạc) hoặc có ≥ 3 YTNC chính hoặc ĐTĐ típ 1 khởi phát sớm, có thời gian mắc bệnh &gt;20 năm
 
-4. Lựa chọn thuốc kiểm soát đường huyết cho người bệnh đái tháo đường típ 2 Hình 2: Lược đồ lựa chọn thuốc và phương pháp điều trị ĐTĐ típ 2
-
-- -
+4. Lựa chọn thuốc kiểm soát đường huyết cho người bệnh đái tháo đường típ 2 
+Hình 2: Lược đồ lựa chọn thuốc và phương pháp điều trị ĐTĐ típ 2
 
 ![Hình 2](https://github.com/DoanJR/Ch-n-o-n-b-nh-ti-u-ng/blob/main/images/hinh_3.png)
 
@@ -599,25 +590,24 @@ Các yếu tố nguy cơ (YTNC) tim mạch chính bao gồm: Tuổi, tăng huy�
 - d) Giảm cân: GLP-1 RA, ức chế SGLT2, ức chế DPP-4 (giảm cân ít)
 - e) Không ảnh hưởng nhiều lên cân nặng: ức chế enzym DPP-4, metformin
 - f) Ảnh hưởng lên bệnh lý tim mạch do xơ vữa:
-
-7. -Hiệu quả có lợi (bằng chứng rõ ràng: GLP-1 RA và ức chế SGLT-2 trừ lixisenatide trung tính)
-8. -Có thể có lợi pioglitazone và metformin
++ Hiệu quả có lợi (bằng chứng rõ ràng: GLP-1 RA và ức chế SGLT-2 trừ lixisenatide trung tính)
++ Có thể có lợi pioglitazone và metformin
 
 - g) Ảnh hưởng lên suy tim, đặc biệt suy tim phân suất tống máu giảm LVEF&lt;45%:
 
-10. -SGLT-2i giảm tiến triển suy tim, nguy cơ nhập viện do duy tim
-11. -Chống chỉ định dùng nhóm TZD do tăng suy tim sung huyết
++ SGLT-2i giảm tiến triển suy tim, nguy cơ nhập viện do duy tim
++ Chống chỉ định dùng nhóm TZD do tăng suy tim sung huyết
 
 - h) Ảnh hưởng lên thận:
 
-13. -Tác động tốt, giúp phục hồi chức năng thận, giảm tiến triển bệnh thận mạn: AECi, SGLT-2i. Nếu không dung nạp hoặc chống chỉ định với SGLT-2i hoặc mức lọc cầu thận không phù hợp, bổ sung GLP-1 RA
-14. -Tác động không có lợi hoặc thận trọng, giảm liều khi suy thận: SU, Metformin
++ Tác động tốt, giúp phục hồi chức năng thận, giảm tiến triển bệnh thận mạn: AECi, SGLT-2i. Nếu không dung nạp hoặc chống chỉ định với SGLT-2i hoặc mức lọc cầu thận không phù hợp, bổ sung GLP-1 RA
++ Tác động không có lợi hoặc thận trọng, giảm liều khi suy thận: SU, Metformin
 
 - i) Các đối tượng BN đặc biệt:
 
-16. -Người cao tuổi ( &gt; 65 tuổi): Không cần chỉnh liều GLP-1 RA, SGLT-2i
-17. -Suy thận: Không cần chỉnh liều GLP-1 RA, Linaglipin đối với suy thận nhẹ, trung bình hay nặng. SGLT-2i được ưu tiên trên BN có eGFR 30-60 mL/phút/1,73m2 da hoặc albumin niệu&gt;30mg/g creatinin để giảm tiến triển bệnh thận mạn
-18. -Suy gan: Không cần chỉnh liều GLP-1 RA, SGLT-2i đối với suy gan nhẹ hoặc trung bình. Ở BN suy gan nặng, dapagliflozin có thể khởi trị với liều 5 mg, nếu dung nạp có thể tăng lên 10 mg. Empagliflozin không khuyến cáo trên BN suy gan nặng.
++ Người cao tuổi ( &gt; 65 tuổi): Không cần chỉnh liều GLP-1 RA, SGLT-2i
++ Suy thận: Không cần chỉnh liều GLP-1 RA, Linaglipin đối với suy thận nhẹ, trung bình hay nặng. SGLT-2i được ưu tiên trên BN có eGFR 30-60 mL/phút/1,73m2 da hoặc albumin niệu&gt;30mg/g creatinin để giảm tiến triển bệnh thận mạn
++ Suy gan: Không cần chỉnh liều GLP-1 RA, SGLT-2i đối với suy gan nhẹ hoặc trung bình. Ở BN suy gan nặng, dapagliflozin có thể khởi trị với liều 5 mg, nếu dung nạp có thể tăng lên 10 mg. Empagliflozin không khuyến cáo trên BN suy gan nặng.
 
 - j) Giá thuốc, tính sẵn có, sự dung nạp và khả năng chi trả của BN
 - k) Phác đồ sử dụng dễ nhớ, dễ thực hiện và khả năng tuân thủ điều trị của người bệnh
@@ -628,16 +618,16 @@ Các yếu tố nguy cơ (YTNC) tim mạch chính bao gồm: Tuổi, tăng huy�
 
 - b) Khi các vấn đề BTMDXV, Suy tim và Bệnh thận mạn đã xuất hiện ở người bệnh đái tháo đường thì chúng ta cần hành động ngay theo chỉ định mới, ưu tiên, không phụ thuộc phác đồ thuốc hạ đường huyết vẫn đang được điều trị cho BN:
 
-2. -Nếu BN có bệnh ĐMDVX hoặc nguy cơ cao ưu tiên lựa chọn thuốc đồng vận thụ thể GLP-1 với các lợi ích rõ ràng trên tim mạch hoặc thuốc ức chế kênh đồng vận chuyển natri-glucose (Ức chế SGLT2) với mức lọc cầu thận phù hợp. (Lưu ý: Thông tin kê toa của thuốc Ức chế SGLT2 liên quan đến mức lọc cầu thận eGFR thay đổi tùy theo từng hoạt chất và từng quốc gia, vui lòng tham khảo thông tin kê toa của các thuốc Ức chế SGLT2 tại Việt Nam để khởi trị hay tiếp tục điều trị với Ức chế SGLT2).
-3. -Đối tượng mắc kèm suy tim hoặc bệnh thận mạn: cân nhắc dùng Ức chế SGLT2 để giảm nguy cơ nhập viện do suy tim và/hoặc tiến triển bệnh thận mạn. Nếu SGLT-2i không dung nạp hoặc chống chỉ định hoặc eGFR không phù hợp thì bổ sung GLP-1 RA đã được chứng minh lợi ích trên tim mạch.
+-Nếu BN có bệnh ĐMDVX hoặc nguy cơ cao ưu tiên lựa chọn thuốc đồng vận thụ thể GLP-1 với các lợi ích rõ ràng trên tim mạch hoặc thuốc ức chế kênh đồng vận chuyển natri-glucose (Ức chế SGLT2) với mức lọc cầu thận phù hợp. (Lưu ý: Thông tin kê toa của thuốc Ức chế SGLT2 liên quan đến mức lọc cầu thận eGFR thay đổi tùy theo từng hoạt chất và từng quốc gia, vui lòng tham khảo thông tin kê toa của các thuốc Ức chế SGLT2 tại Việt Nam để khởi trị hay tiếp tục điều trị với Ức chế SGLT2).
+-Đối tượng mắc kèm suy tim hoặc bệnh thận mạn: cân nhắc dùng Ức chế SGLT2 để giảm nguy cơ nhập viện do suy tim và/hoặc tiến triển bệnh thận mạn. Nếu SGLT-2i không dung nạp hoặc chống chỉ định hoặc eGFR không phù hợp thì bổ sung GLP-1 RA đã được chứng minh lợi ích trên tim mạch.
 
 - c) Phối hợp thuốc sớm nên được cân nhắc ở một số BN khi bắt đầu khởi trị để hạn chế thất bại và đạt mục tiêu điều trị nhanh, tốt hơn. Không lựa chọn các thuốc cùng 1 nhóm, cùng cơ chế tác dụng.
 - d) Sau khi khởi trị, metformin nên được duy trì nếu vẫn dung nạp và không có chống chỉ định.
 - e) Với các BN không có bệnh tim mạch do vữa xơ hoặc không có yếu tố nguy cơ BTMDVX: sau khi khởi trị metformin mà không đạt mục tiêu đường huyết thì cân nhắc lựa chọn các nhóm khác theo phác đồ:
 
-7. -Nếu chi phí điều trị là vấn đề chính: ưu tiên chọn SU, TZD
-8. -Nếu người bệnh có nguy cơ cao hạ glucose máu: ưu tiên chọn DPP-4i, SGLT-2i, GLP-1, TZD
-9. -Nếu người bệnh cần giảm cân: ưu tiên chọn SGLT-2i, GLP-1
+-Nếu chi phí điều trị là vấn đề chính: ưu tiên chọn SU, TZD
+-Nếu người bệnh có nguy cơ cao hạ glucose máu: ưu tiên chọn DPP-4i, SGLT-2i, GLP-1, TZD
+-Nếu người bệnh cần giảm cân: ưu tiên chọn SGLT-2i, GLP-1
 
 - f) Sử dụng sớm insulin nên cân nhắc nếu có bằng chứng của dị hóa (giảm cân), triệu chứng tăng đường huyết, hoặc nếu mức A1C ≥9% hoặc mức glucose huyết rất cao ≥300 mg/dL (16.7 mmol/L).
 - g) Ở BN ĐTĐ típ 2 không đạt được HbA1c mục tiêu với thuốc hạ đường huyết uống thì thuốc đồng vận thụ thể GLP-1 được ưu tiên hơn là insulin nhờ vào khả năng kiểm soát đường huyết tốt, cải thiện chức năng tế bào beta, hiệu quả giảm cân tốt, lợi ích trên tim mạch và tỉ lệ mắc biến chứng hạ đường huyết thấp của GLP-1 RA khi đơn trị liệu hay phối hợp với các thuốc điều trị đái tháo đường dạng uống đã được chứng minh.
@@ -674,9 +664,7 @@ Hình 3: Sơ đồ điều trị với insulin
 * Điều chỉnh liều: tăng liều 10 - 15% hay tăng 1 - 2 đơn vị mỗi 1 hoặc 2 lần mỗi tuần cho đến khi đạt mục tiêu đường huyết lúc đói.
 * Hạ đường huyết: xác định nguyên nhân hạ đường huyết, nếu không có nguyên nhân rõ ràng, giảm liều insulin 2 - 4 đơn vị hay giảm 10 - 20%.
 
-- -BN đang điều trị insulin nền trước đó: liều khởi đầu bằng liều insulin nền trước
-
-- đó, chia thành 2/3 buổi sáng, 1/3 buổi chiều HOẶC 1/2 buổi sáng, 1/2 buổi chiều
+- -BN đang điều trị insulin nền trước đó: liều khởi đầu bằng liều insulin nền trước đó, chia thành 2/3 buổi sáng, 1/3 buổi chiều HOẶC 1/2 buổi sáng, 1/2 buổi chiều
 - -BN chưa điều trị insulin nền: liều khởi đầu theo thông tin kê toa được Bộ y tế phê duyệt. Nếu dùng 2 lần/ngày: chia thành 2/3 buổi sáng, 1/3 buổi chiều HOẶC 1/2 buổi sáng, 1/2 buổi chiều tiêm ngay trước hoặc ngay sau khi ăn (đối với insulin analog).
 - -Khi sử dụng insulin hỗn hợp gồm 70% Insulin Aspart Protamine/30% Insulin Aspart hòa tan ngày 1 lần mà liều đã lên đến 30 đơn vị thì có thể chia thành 2 lần/ngày bằng cách chia liều bằng nhau vào bữa sáng và bữa tối (50/50)
 - -Liều insulin hỗn hợp 30/70 đang dùng 2 lần/ ngày chưa đạt mục tiêu đường huyết, cần chuyển sang 3 lần/ngày: liều buổi sáng có thể thêm 2-4 đơn vị và chia thành liều buổi sáng và giờ ăn trưa, liều tối giữ nguyên. Không dùng phối hợp cùng sulfonylure.
@@ -1964,4 +1952,5 @@ Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
 25. Umpierrez GE et al, 2012. Management of Hyperglycemia in Hospitalized Patients in Non-Critical Care Setting: An Endocrine Society Clinical Practice Guideline J Clin Endocrinol and Metab; 97(1): 16-38.
 26. Umpierrez G, Korytkowski M. Diabetic emergenciesdketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia. Nat Rev Endocrinol 2016;12:222-232
 27. Gestational Diabetes Mellitus - An Overview with Some Recent Advances October 1 st 2018.
+
 
