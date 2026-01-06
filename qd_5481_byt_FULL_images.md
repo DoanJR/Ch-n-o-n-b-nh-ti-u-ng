@@ -36,7 +36,7 @@ Theo đề nghị của Cục trưởng Cục Quản lý khám, chữa bệnh,
 
 &lt;unknown&gt;
 
-KT. BỘ TRƯỞNG THỨ TRƯỞNG N uy n T ườn S n &lt;unknown&gt;
+KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Trường Sơn &lt;unknown&gt;
 
 Số: /QĐ-BYT
 
@@ -1911,6 +1911,7 @@ Bảng : Danh mục thuốc thiết yếu điều trị ĐTĐ típ 2
 25. Umpierrez GE et al, 2012. Management of Hyperglycemia in Hospitalized Patients in Non-Critical Care Setting: An Endocrine Society Clinical Practice Guideline J Clin Endocrinol and Metab; 97(1): 16-38.
 26. Umpierrez G, Korytkowski M. Diabetic emergenciesdketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia. Nat Rev Endocrinol 2016;12:222-232
 27. Gestational Diabetes Mellitus - An Overview with Some Recent Advances October 1 st 2018.
+
 
 
 
