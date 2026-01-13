@@ -1,0 +1,27 @@
+import re
+
+def chunk_markdown(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+    pages = re.split(r'<!-- PAGE BREAK -->', content)
+    # Lọc bỏ các phần tử trống và loại bỏ các ký tự thừa
+    pages = [page.strip() for page in pages if page.strip()]
+    return pages
+
+def save_chunks_to_files(chunks, output_dir):
+    for i, chunk in enumerate(chunks):
+        # Tạo tên file cho từng trang
+        output_file_path = f"{output_dir}/page_{i - 1}.md"
+        with open(output_file_path, 'w', encoding='utf-8') as output_file:
+            output_file.write(chunk)
+        print(f"Trang {i-1} đã được lưu vào: {output_file_path}")
+
+# Đọc file và phân chia theo trang
+file_path = 'qd_5481_byt_FULL_images_paged.md'  # Đường dẫn tới file MD của bạn
+chunks = chunk_markdown(file_path)
+
+# Chỉ định thư mục lưu trữ các file
+output_dir = 'output_pages'  # Đường dẫn tới thư mục bạn muốn lưu
+
+# Lưu từng trang vào file riêng biệt
+save_chunks_to_files(chunks, output_dir)
