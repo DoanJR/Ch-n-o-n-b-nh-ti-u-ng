@@ -1,27 +1,134 @@
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
 import re
+from pathlib import Path
+from docling.document_converter import DocumentConverter, PdfFormatOption
+from docling.datamodel.pipeline_options import PdfPipelineOptions
 
-def chunk_markdown(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        content = file.read()
-    pages = re.split(r'<!-- PAGE BREAK -->', content)
-    # Lọc bỏ các phần tử trống và loại bỏ các ký tự thừa
-    pages = [page.strip() for page in pages if page.strip()]
-    return pages
+# ==============================
+# CẤU HÌNH
+# ==============================
 
-def save_chunks_to_files(chunks, output_dir):
-    for i, chunk in enumerate(chunks):
-        # Tạo tên file cho từng trang
-        output_file_path = f"{output_dir}/page_{i - 1}.md"
-        with open(output_file_path, 'w', encoding='utf-8') as output_file:
-            output_file.write(chunk)
-        print(f"Trang {i-1} đã được lưu vào: {output_file_path}")
+pdf_file = "report.pdf"
+output_dir = Path("report_docs")
+doc_name = "rep"
 
-# Đọc file và phân chia theo trang
-file_path = 'qd_5481_byt_FULL_images_paged.md'  # Đường dẫn tới file MD của bạn
-chunks = chunk_markdown(file_path)
+PAGE_BREAK = "<!-- PAGE BREAK -->"
+PAGE_LABEL_PREFIX = "<!-- PAGE: "
 
-# Chỉ định thư mục lưu trữ các file
-output_dir = 'output_pages'  # Đường dẫn tới thư mục bạn muốn lưu
+# ==============================
+# TẠO THƯ MỤC
+# ==============================
 
-# Lưu từng trang vào file riêng biệt
-save_chunks_to_files(chunks, output_dir)
+output_dir.mkdir(exist_ok=True)
+images_dir = output_dir / "images"
+images_dir.mkdir(exist_ok=True)
+
+print(f"🚀 Đang xử lý: {pdf_file}")
+
+# ==============================
+# CẤU HÌNH DOCILING
+# ==============================
+
+pipeline_options = PdfPipelineOptions()
+pipeline_options.images_scale = 2.0
+pipeline_options.generate_page_images = False
+pipeline_options.generate_picture_images = True
+pipeline_options.do_ocr = True   # bật nếu PDF scan
+
+converter = DocumentConverter(
+    format_options={
+        "pdf": PdfFormatOption(pipeline_options=pipeline_options)
+    }
+)
+
+# ==============================
+# CONVERT PDF
+# ==============================
+
+result = converter.convert(pdf_file)
+doc = result.document
+
+print("📄 Đã convert PDF")
+
+# ==============================
+# TRÍCH XUẤT HÌNH PNG
+# ==============================
+
+picture_count = 0
+
+for picture in doc.pictures:
+    picture_count += 1
+    img_path = images_dir / f"hinh_{picture_count}.png"
+    img = picture.get_image(doc)
+    img.save(img_path, "PNG")
+
+print(f"🖼️ Đã lưu {picture_count} hình")
+
+# ==============================
+# EXPORT MARKDOWN (KHÔNG BASE64)
+# ==============================
+
+try:
+    markdown_content = doc.export_to_markdown(
+        page_break_placeholder=PAGE_BREAK,
+        embed_images=False
+    )
+except TypeError:
+    markdown_content = doc.export_to_markdown(
+        page_break_placeholder=PAGE_BREAK
+    )
+
+# ==============================
+# XÓA IMAGE BASE64 NẾU CÒN SÓT
+# ==============================
+
+markdown_content = re.sub(
+    r'!\[.*?\]\(data:image.*?\)',
+    '',
+    markdown_content,
+    flags=re.DOTALL
+)
+
+# ==============================
+# CHÈN LABEL TRANG
+# ==============================
+
+parts = markdown_content.split(PAGE_BREAK)
+parts_with_labels = []
+
+for i, part in enumerate(parts, start=1):
+    part = part.strip()
+    if not part:
+        continue
+    parts_with_labels.append(
+        f"{PAGE_LABEL_PREFIX}{i} -->\n\n{part}"
+    )
+
+markdown_content_paged = f"\n\n{PAGE_BREAK}\n\n".join(parts_with_labels)
+
+# ==============================
+# GHI FILE MARKDOWN
+# ==============================
+
+md_file = output_dir / f"{doc_name}_FULL_images_paged.md"
+
+with open(md_file, "w", encoding="utf-8") as f:
+    f.write(markdown_content_paged)
+
+    if picture_count > 0:
+        f.write("\n\n## 🖼️ HÌNH ẢNH TRÍCH XUẤT\n\n")
+        for i in range(1, picture_count + 1):
+            f.write(f"### Hình {i}\n\n")
+            f.write(f"![Hình {i}](images/hinh_{i}.png)\n\n")
+
+print("\n🎉 HOÀN THÀNH!")
+print(f"📁 Thư mục: {output_dir}/")
+print(f"📄 Markdown: {md_file}")
+print(f"🖼️  Images: {images_dir}/")
+print(f"🧱 Page break marker: {PAGE_BREAK}")
+
+print("\n👉 Bước tiếp theo:")
+print("1️⃣ Zip toàn bộ thư mục report_docs/")
+print("2️⃣ Upload file zip vào Dify Knowledge Base")
